@@ -1,11 +1,13 @@
-<!-- 🌈 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Saswata+Ghosh!;Product+Designer+%7C+UI%2FUX+Designer+%7C+Frontend+Developer;Designing+Stories+that+Inspire+and+Perform+✨" alt="Typing SVG" />
+  <a href="https://github.com/Saswataghosh06">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Saswata+Ghosh!;Product+Designer+%7C+UI%2FUX+Designer+%7C+Frontend+Developer;Designing+Stories+that+Inspire+and+Perform+✨" alt="Typing SVG" />
+  </a>
 </p>
+
 
 <!-- 🪩 Motion Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/creative-banner.gif" width="800" alt="creative banner"/>
+ <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/creative-banner.gif" />
 </p>
 
 <!-- 🎨 Gradient Divider -->
@@ -71,38 +73,23 @@ I love exploring the intersection of creativity and technology — from **UI/UX 
 
 ## 🧰 Tech Stack  
 
-### 🎨 Design Tools  
+### 🎨 Design  
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?&style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,premierepro,lightroom&theme=dark" />
 </p>
 
 ### 💻 Development  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,flutter,git,github,vercel,vscode&theme=dark" />
 </p>
 
 ### 📊 Data & Analytics  
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?&style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/google-analytics.png" width="45" height="45" alt="Google Analytics"/>
 </p>
 
 ---
