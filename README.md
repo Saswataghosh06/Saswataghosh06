@@ -4,17 +4,10 @@
   </a>
 </p>
 
-
-<!-- 🪩 Motion Banner -->
-<p align="center">
- <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/creative-banner.gif" />
-</p>
-
 <!-- 🎨 Gradient Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/divider.svg" width="100%" alt="divider"/>
 </p>
-
 ---
 
 ## 🧠 About Me  
