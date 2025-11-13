@@ -52,13 +52,19 @@ I love exploring the intersection of creativity and technology — from **UI/UX 
 ## 🧰 Tech Stack  
 
 ### 🎨 Design  
-`Figma` · `Adobe Photoshop` · `Premiere Pro` · `Lightroom` · `Design Systems` · `Branding`  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premierepro,lightroom,illustrator,xd&theme=dark" />
+</p>
 
 ### 💻 Development  
-`HTML5` · `CSS3` · `JavaScript (ES6+)` · `React` · `Next.js` · `Tailwind CSS` · `TypeScript` · `WordPress`  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,vercel,vscode,git,github&theme=dark" />
+</p>
 
 ### 📊 Data & Analytics  
-`Power BI` · `Tableau` · `SQL` · `Excel Dashboards` · `Google Analytics`  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,googleanalytics&theme=dark" />
+</p>
 
 ---
 
