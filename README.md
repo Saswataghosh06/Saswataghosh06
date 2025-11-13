@@ -53,17 +53,24 @@ I love exploring the intersection of creativity and technology — from **UI/UX 
 
 ### 🎨 Design  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,premierepro,lightroom,illustrator,xd&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" width="45" height="45"/>
 </p>
 
 ### 💻 Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,vercel,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,nextjs,tailwind,wordpress,vscode,git,github,vercel&theme=dark" />
 </p>
 
 ### 📊 Data & Analytics  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,tableau,excel,googleanalytics&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/google-analytics.png" width="45" height="45"/>
 </p>
 
 ---
