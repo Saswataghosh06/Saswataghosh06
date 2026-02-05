@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Saswataghosh06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Saswata+Ghosh!;Product+Designer+%7C+UI%2FUX+Designer+%7C+Frontend+Developer;Designing+Stories+that+Inspire+and+Perform+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Saswata+Ghosh!;Data+Analyst" alt="Typing SVG" />
   </a>
 </p>
 
