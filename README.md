@@ -1,122 +1,127 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/banner.svg" width="100%" alt="Saswata Ghosh Banner"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Saswataghosh06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Saswata+Ghosh!;Data+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C0A3&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;Turning+raw+data+into+decisions+that+matter;Open+to+Data+Analyst+%26+Data+Science+roles" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 🎨 Gradient Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/divider.svg" width="100%" alt="divider"/>
-</p>
----
-
-## 🧠 About Me  
-I’m passionate about translating ideas into **intuitive, emotionally resonant digital experiences**.  
-With a unique blend of design thinking and frontend development, I craft interfaces that **look beautiful** and **perform efficiently**.  
-
-I love exploring the intersection of creativity and technology — from **UI/UX and branding** to **analytics-driven dashboards** and **product strategy**.  
-
-🧩 Currently exploring **AI-integrated design systems** and **Next.js 15 workflows**.
-
----
-
-### 🔭 Currently Working On  
-- Building **RetailIntellec** – an AI-driven retail insight dashboard  
-- Expanding **Aperture Alchemist** – a creative storytelling agency  
-
-### 🌱 Currently Learning  
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-EF008F?&logo=framer&logoColor=white)
-![AI Design Tools](https://img.shields.io/badge/-AI%20Design%20Tools-FF6F61?&logo=openai&logoColor=white)
-
----
-
-## 💼 Experience  
-
-**🎓 Business Executive Intern – Reason Analytics Softech Pvt. Ltd. (Sep 2025 – Present)**  
-- Migrated static HTML/CSS/JS website to dynamic WordPress (Astra + Elementor) improving SEO **45 → 97**.  
-- Boosted organic impressions by **70%** and page speed by **50%**.  
-- Integrated Google Analytics and improved UI/UX for the company’s MDM platform.  
-
-**🧠 Product Designer – JITSPIL, IIT Madras (Sep 2023 – Sep 2024)**  
-- Designed UX workflows for a **wearable haptic suit** aiding visually impaired users.  
-- Improved obstacle detection accuracy by **95%** through iterative prototyping.  
-
-**📰 Web Developer – Newscope (Nov 2024 – Mar 2025)**  
-- Built a dynamic news platform with **React** and **REST APIs**, improving accessibility and UX.  
-
----
-
-## 🧩 Projects  
-
-- **💰 Personal Finance Dashboard (Power BI + SQL + Excel)**  
-  Visualized expenses, automated data syncs, and provided real-time financial insights.  
-
-- **🦾 Hap Sense – Wearable Haptic Suit (Arduino, ESP32, Figma)**  
-  Achieved **95% detection accuracy** via iterative design testing.  
-
-- **🌐 Switch Social – Web3 dApp (Solidity, React, Web3.js)**  
-  Built a decentralized platform onboarding 20+ creators; secured **$3000 blockchain grant**.  
-
-- **🖥️ Portfolio Website (Next.js + Tailwind CSS)**  
-  Optimized SEO and reduced load time by **40%**, boosting conversions by **25%**.  
-
----
-
-## 🧰 Tech Stack  
-
-### 🎨 Design  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,premierepro,lightroom&theme=dark" />
-</p>
-
-### 💻 Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress,flutter,git,github,vercel,vscode&theme=dark" />
-</p>
-
-### 📊 Data & Analytics  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45" alt="Tableau"/>
-  <img src="https://img.icons8.com/color/48/google-analytics.png" width="45" height="45" alt="Google Analytics"/>
+  <a href="https://linkedin.com/in/saswata-ghosh06"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saswataghosh2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Saswataghosh06"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="https://instagram.com/saswataghosh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications  
-🏅 1st Place – Advertisement & Photostory Competitions (BESC, St. Xavier’s, Techno Main Salt Lake)  
-📸 Organized Solo Photography Exhibition (2024)  
-💰 Blockchain Grant – **Switch Social ($3000)**  
-📚 Certifications in Data Analysis, Digital Marketing, UX Design & Project Management  
+## About Me
+
+I'm a Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel, currently completing my B.Tech in Computer Science (AI & ML) at Sister Nivedita University, Kolkata.
+
+I build end-to-end analytics solutions — ELT pipelines, business dashboards, funnel analyses, and cohort studies — and present the findings in a way that non-technical stakeholders can actually act on.
+
+Outside of data, I run **Aperture Alchemist**, a creative storytelling agency, and document the world through street photography and cinematic video.
+
+- Interned at **Reason Analytics Softech Pvt. Ltd.** as a Data Analyst Intern
+- Interned at **Newscope Media** as a Technical Consultant
+- Won **3 intercollegiate hackathons**
+- **Top 5 of 63** candidates selected for a fully funded international IoT & Systems Design exchange program
+- Elected **IIC Representative**, Sister Nivedita University
 
 ---
 
-## 📸 Beyond Work  
-Founder & President of **Aperture Alchemist** – a creative community exploring photography, storytelling, and visual branding.  
-I believe every product tells a story — and my goal is to make it **worth remembering**.  
+## What I'm Working On
+
+- **RetailIntellec** — an AI-driven retail insight dashboard (Power BI + SQL + Python)
+- Ecommerce Conversion Funnel Analysis — portfolio-grade project with 10K sessions, $7.69M recoverable revenue identified
+- Growing my personal brand at the intersection of data, design, and storytelling
 
 ---
 
-## 🌍 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://saswataghosh.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saswata-ghosh06)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Saswataghosh06)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saswataghosh_)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saswataghosh2022@gmail.com)  
+## Core Skills
+
+### Data & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Analytics methods:** Funnel analysis, cohort analysis, KPI definition, data warehousing, ELT pipeline design, stakeholder reporting, DAX, segmentation
+
+### Design & Creative
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premierepro,lightroom&theme=dark"/>
+</p>
 
 ---
 
-## ⚡ GitHub Stats  
+## Experience
 
-![Saswata’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Saswataghosh06&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswataghosh06&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Saswataghosh06&theme=tokyonight&hide_border=false)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Saswataghosh06&theme=tokyonight)  
+**Data Analyst Intern — Reason Analytics Softech Pvt. Ltd.** *(Sep 2025 – Present)*
+- Engineered SQL-based ELT pipelines with validation checks, cutting manual reporting effort by **45%** and improving data accuracy by **90%**
+- Conducted funnel and web performance analysis that grew organic traffic by **4.7%** and improved page load speed by **50%**
+- Built Power BI dashboards for stakeholder reporting across business metrics
+
+**Technical Consultant Intern — Newscope Media** *(Nov 2024 – Mar 2025)*
+- Improved operational efficiency by **15.7%** through process optimization
+- Reduced post-production turnaround time by **40%**
 
 ---
 
-⭐ *“Design is the silent ambassador of your brand — I just help it speak louder.”*  
+## Projects
+
+**Ecommerce Conversion Funnel Analysis**
+SQL + Python · 10,000 sessions · October 2025 data
+- Overall conversion rate: **10.80%** | Total revenue: **$1.17M**
+- Identified **$7.69M** in recoverable revenue at checkout stage
+- Segmented by marketing channel, region, device, product category, and time behavior
+
+**Venture Finance Analytics**
+SQL + Power BI · 1M+ transactions · $3.15B portfolio
+- End-to-end analysis of investment portfolio performance
+- KPI dashboards built for executive-level stakeholder reporting
+
+**FNP Sales Intelligence Platform**
+SQL + Excel + Power BI
+- Sales data warehouse integrating ERP and CRM across 100K+ transactions
+- Cohort analysis, segmentation, and cumulative revenue metrics
+
+---
+
+## Achievements
+
+- 🏆 1st Place — Advertisement & Photostory Competitions (BESC, St. Xavier's, Techno Main Salt Lake)
+- 🌍 Top 5 of 63 — Fully funded international IoT & Systems Design exchange program
+- 📸 Organized Solo Photography Exhibition (2024)
+- 🎓 Elected IIC Representative — Sister Nivedita University
+- 📚 Certifications in Data Analysis, Digital Marketing, UX Design, and Project Management
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saswataghosh06&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswataghosh06&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saswataghosh06&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
+</p>
+
+---
+
+## Beyond the Data
+
+Founder of **Aperture Alchemist** — a creative agency and community exploring street photography, cinematic storytelling, and visual branding. I believe the best data stories are told with the same craft as a well-composed frame.
+
+---
+
+*"Data tells you what happened. Context tells you why it matters."*
