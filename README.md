@@ -106,18 +106,6 @@ SQL + Excel + Power BI
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saswataghosh06&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saswataghosh06&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saswataghosh06&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
-</p>
-
----
-
 ## Beyond the Data
 
 Founder of **Aperture Alchemist** — a creative agency and community exploring street photography, cinematic storytelling, and visual branding. I believe the best data stories are told with the same craft as a well-composed frame.
