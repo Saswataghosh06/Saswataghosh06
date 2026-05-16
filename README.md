@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saswataghosh06/Saswataghosh06/main/assets/banner.svg" width="100%" alt="Saswata Ghosh Banner"/>
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/3998329c-5de5-4e89-bb98-ccef658fed47" />
 </p>
 
 <p align="center">
