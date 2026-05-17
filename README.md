@@ -35,8 +35,7 @@ Outside of data, I run **Aperture Alchemist**, a creative storytelling agency, a
 
 ## What I'm Working On
 
-- **RetailIntellec** — an AI-driven retail insight dashboard (Power BI + SQL + Python)
-- Ecommerce Conversion Funnel Analysis — portfolio-grade project with 10K sessions, $7.69M recoverable revenue identified
+- Complete END-to-END data pipeline on DBT and Databricks
 - Growing my personal brand at the intersection of data, design, and storytelling
 
 ---
