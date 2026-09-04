@@ -159,5 +159,3 @@ Founder of **Aperture Alchemist** — a creative agency and community exploring 
 <p align="center">
   <i>"Data tells you what happened. Context tells you why it matters."</i>
 </p>
-4. **Collapsible Sections:** Used `<details>` and `<summary>` tags for projects. This gives the README a clean, portfolio-like UI, preventing it from being overwhelmingly long while still containing all the deep technical details from your resumes.
-5. **Education & Experience Alignment:** Updated bullet points to perfectly match the phrasing and metrics provided in your two resumes.
